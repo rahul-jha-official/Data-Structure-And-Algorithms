@@ -4,7 +4,7 @@
 - [Search in Rotated Sorted Array](#search-in-rotated-sorted-array)
 
 ## [Search Insert Position](search-insert-position)
-<a href="https://leetcode.com/problems/search-insert-position/description/">Description</a>
+<a href="https://leetcode.com/problems/search-insert-position/description/">Problem Statement</a>
 ```cs
 public class Solution 
 {
@@ -39,7 +39,7 @@ public class Solution
 ```
 
 ## [Search in Rotated Sorted Array](#search-in-rotated-sorted-array)
-<a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/">Description</a>
+<a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/">Problem Statement</a>
 
 ```cs
 public class Solution {
