@@ -1,6 +1,6 @@
 # Binary Search Problems
 ## Coding Problems
-- [Search Insert Position](search-insert-position)
+- [Search Insert Position](#search-insert-position)
 - [Search in Rotated Sorted Array](#search-in-rotated-sorted-array)
 
 ## [Search Insert Position](search-insert-position)
