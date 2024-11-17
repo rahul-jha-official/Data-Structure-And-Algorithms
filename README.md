@@ -1,30 +1,37 @@
 # Data Structure & Algorithms
 
+## Table Of Content
+- [Introduction](#Introduction)
+- [Abstract Data Type](#ADT)
+- [Analysis of Algorithm](#AlgorithmAnalysis)
+- [Searching](#Searching)
 
-## Data Structure
+## [Introduction](#Introduction)
+
+### Data Structure
 - Data is efficiently stored
 - Data is arranged
 - Programs access efficiently
 
 
-### Types
+**Types**
 - Linear
     - Stack, Queue, LinkedList
 - Non Linear
     - Graph, Tree, Heap
 
-## Algorithm
-- Plan or blueprint
-- Set of instruction
+### Algorithm
+- Plan or Blueprint
+- Set of Instruction
 - Execute in finite amount of time
 
-### Why Algorithm ?
+**Why Algorithm ?**
 - Mechanishm to compare Algorithms
 - Predict performance
 - Time and amount of resource
 
 
-## Abtract Data Type
+## [Abstract Data Type](#ADT)
 - Abstraction to data structure
 - Mathematical model of Data Structures
 - Abtract Data Type specifies: 
@@ -38,7 +45,7 @@
     - Integer, Byte, Long, Float, Double
     - Boolean, Character
 
-## Analysis of Algorithm
+## [Analysis of Algorithm](#AlgorithmAnalysis)
 
 ### Time Complexity
 - Running time of algorithm is proportional
@@ -81,7 +88,7 @@ f(n) is said to be asymptotically equivalent to n²
 - Big-Omega Ω( ): Best Case: Lower Bound
 - Big-Theta θ( ): Average Case
 
-## SEARCHING
+## [Searching](#Searching)
 Searching Algorithms are designed to check for an element or retrieve an element from any data structure where it is stored.
 
 Based on the type of search operation, these algorithms are generally classified into two categories:
