@@ -2,8 +2,8 @@
 
 ## Table Of Content
 - [Introduction](#Introduction)
-- [Abstract Data Type](#ADT)
-- [Analysis of Algorithm](#AlgorithmAnalysis)
+- [Abstract Data Type](#AbstractDataType)
+- [Analysis Of Algorithm](#AnalysisOfAlgorithm)
 - [Searching](#Searching)
 
 ## [Introduction](#Introduction)
@@ -31,7 +31,7 @@
 - Time and amount of resource
 
 
-## [Abstract Data Type](#ADT)
+## [Abstract Data Type](#AbstractDataType)
 - Abstraction to data structure
 - Mathematical model of Data Structures
 - Abtract Data Type specifies: 
@@ -45,7 +45,7 @@
     - Integer, Byte, Long, Float, Double
     - Boolean, Character
 
-## [Analysis of Algorithm](#AlgorithmAnalysis)
+## [Analysis Of Algorithm](#AnalysisOfAlgorithm)
 
 ### Time Complexity
 - Running time of algorithm is proportional
