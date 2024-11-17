@@ -1,10 +1,10 @@
 # Data Structure & Algorithms
 
 ## Table Of Content
-- [Introduction](#Introduction)
-- [Abstract Data Type](#AbstractDataType)
-- [Analysis Of Algorithm](#AnalysisOfAlgorithm)
-- [Searching](#Searching)
+- [Introduction](#introduction)
+- [Abstract Data Type](#abstract-data-type)
+- [Analysis Of Algorithm](#analysis-of-algorithm)
+- [Searching](#searching)
 
 ## [Introduction](#Introduction)
 
